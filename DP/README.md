@@ -31,16 +31,23 @@
 - [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) - Chapter 4: Dynamic Programming
 
 
-### Exercises
+### Exercises + Explanations
 
 - Implement Policy Evaluation in Python (Gridworld)
   - [Exercise](Policy Evaluation.ipynb)
   - [Solution](Policy Evaluation Solution.ipynb)
+  - [ExtraNotes](Policy Evaluation Solution with Explanation.ipynb)
+
 
 - Implement Policy Iteration in Python (Gridworld)
   - [Exercise](Policy Iteration.ipynb)
   - [Solution](Policy Iteration Solution.ipynb)
+  - [ExtraNotes](Policy Iteration Solution with Explanation.ipynb)
+
 
 - Implement Value Iteration in Python (Gridworld)
   - [Exercise](Value Iteration.ipynb)
   - [Solution](Value Iteration Solution.ipynb)
+  - [ExtraNotes](Value Iteration Solution with Explanation.ipynb)
+
+
